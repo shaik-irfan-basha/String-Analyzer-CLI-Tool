@@ -1,3 +1,9 @@
+"""
+JASIQ Labs - Python Master Implementation Guide (Phase 0)
+Project: String Analyzer CLI Tool
+Part of JASIQ Labs Internship (Work + Learning, Job Ready Internship)
+"""
+
 def analyze_string():
     # 1. Take user input using input()
     # .strip() is used to remove accidental leading/trailing spaces

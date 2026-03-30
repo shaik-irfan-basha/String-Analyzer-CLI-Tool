@@ -1,4 +1,5 @@
 # String Analyzer CLI Tool
+### Part of JASIQ Labs Internship (Work + Learning, Job Ready Internship)
 
 A simple command-line interface tool to analyze strings, providing character count, word count, vowel count, reversal, and palindrome checks.
 
